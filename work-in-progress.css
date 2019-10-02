@@ -1,0 +1,56 @@
+h1{
+	
+	text-align:center;
+	text-decoration: line-through;
+	
+	
+	
+}
+p{
+	text-align:center;
+	font: 1.5em Georgia, serif;
+	text-shadow: 1px 1px 2px green;
+	text-decoration:underline;
+	
+	
+	
+	
+}
+.yoga{
+	
+	font-size:15px;
+}
+
+
+
+
+
+
+.timer{
+	
+	
+	text-align:center;
+	
+}
+.imagee{
+	text-align:center;
+
+}
+
+.imgmaintenance{
+	
+	text-align:center;
+	
+	
+	
+}
+.gif{
+	
+	text-align:left;
+}
+
+body{
+	
+	background-image:url(yoga.jpg);
+	
+}
